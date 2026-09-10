@@ -1,6 +1,6 @@
 
 
-# Bharat Yatra
+# Bharat Yatra    
 
 Bharat Yatra is a tourist app that provides descriptions about different tourist destinations in India. This project is built using React and Vite, offering a fast and modern development experience.
 
